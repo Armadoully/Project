@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 03-11-2023 a las 05:32:31
+-- Tiempo de generación: 03-11-2023 a las 06:07:14
 -- Versión del servidor: 10.4.28-MariaDB
 -- Versión de PHP: 8.2.4
 
@@ -20,10 +20,9 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `cabellobellojj`
 --
-
 drop database if not exists cabellobellojj;
 CREATE database cabellobellojj;
-use cabellobellojj;
+use cabellobellojj;t
 
 DELIMITER $$
 --
